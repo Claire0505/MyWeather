@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_dark">#212121</color>
+    <color name="dark">#252525</color>
+    <color name="black_dark">#000000</color>
+    <color name="blue_dark">#4aa9fc</color>
+    <color name="blue_primary">#3997e9</color>
+    <color name="blue1">#60aaea</color>
+    <!-- Theme Pink -->
+    <color name="background">#e17096</color>
+    <color name="header">#ed6e99</color>
+    <color name="customercolorAccent">#f04680</color>
+    <color name="purple">#5c2bb3</color>
+    <color name="purple_dark">#54348e</color>
+    <color name="background_purple">#6938bd</color>
+    <color name="light_purple">#5707e7</color>
+</resources>

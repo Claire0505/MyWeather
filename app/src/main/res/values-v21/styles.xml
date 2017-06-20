@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomerTheme_Blue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorBackground">@color/blue_dark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="android:colorForeground">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/blue_primary</item>
+        <item name="android:statusBarColor">@color/blue1</item>
+    </style>
+
+    <!-- Theme Dark -->
+    <style name="CustomerTheme_Black" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="android:colorBackground">#c6060606</item>
+        <item name="colorPrimary">@color/dark</item>
+        <item name="colorPrimaryDark">@color/black_dark</item>
+        <item name="colorAccent">@color/blue_dark</item>
+        <item name="android:textColorPrimary">@android:color/primary_text_dark</item>
+    </style>
+
+
+    <!-- Theme Pink -->
+    <style name="CustomerTheme_Pink" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorPrimary">@color/customercolorAccent</item>
+        <item name="colorPrimaryDark">@color/header</item>
+        <item name="colorAccent">@color/customercolorAccent</item>
+    </style>
+
+    <style name="CustomerTheme_Purple" parent="CustomerTheme_Black">
+        <item name="colorPrimary">@color/purple</item>
+        <item name="android:navigationBarColor">@color/purple</item>
+        <item name="colorPrimaryDark">@color/purple_dark</item>
+        <item name="android:colorBackground">@color/background_purple</item>
+        <item name="colorAccent">@color/light_purple</item>
+    </style>
+</resources>

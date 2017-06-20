@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="search">Search City</string>
+    <string name="settings">Settings</string>
+    <string name="dark_theme">Dark Theme  &#160; </string>
+    <string name="pink_theme">Pink Theme  &#160; </string>
+    <string name="purple_theme">Purple Theme  &#160; </string>
+</resources>
